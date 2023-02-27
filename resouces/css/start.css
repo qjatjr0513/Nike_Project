@@ -16,7 +16,10 @@ body {
     height: 100%;
     float: left;
     box-sizing: border-box;
-    background: #8977ad;
+    /* background: #8977ad; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 .outer_start_btn {
     width: 30%;
@@ -25,3 +28,8 @@ body {
     box-sizing: border-box;
     background: #ece6cc;
   }
+
+.nickLogo{
+    width: 60%;
+    height: 60%;
+}
