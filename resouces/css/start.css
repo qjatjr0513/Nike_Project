@@ -1,4 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+} 
+
 .outer{
     background-color: black;
+<<<<<<< HEAD
     height: 727rem;
 }
+=======
+    height: 57rem;
+}
+>>>>>>> 15e22aaea49594a35d1f74e1f9d4da77d9ad7d11
