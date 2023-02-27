@@ -61,14 +61,13 @@ header {
   }
 
   .outer_video{
-    border: 1px solid red;
-    margin-top: 47px;
-    height: 70%;
+    /* border: 1px solid red; */
+    margin-top: -10px;
   }
 
   .outer_1{
     border: 1px solid blue;
-    margin-top: 47px;
+    margin-top: 20px;
     height: 600px;
   }
 
@@ -80,6 +79,30 @@ header {
 
   .outer_3{
     border: 1px solid teal;
-    margin-top: 47px;
+    margin-top: 20px;
     height: 600px;
+  }
+
+  .outer_1-1{
+    border: 1px solid tomato;
+    width: 32%;
+    height: 100%;
+    margin-left: 13px;
+    float: left;
+  }
+  
+  .outer_1-2{
+    border: 1px solid tomato;
+    width: 32%;
+    height: 100%;
+    margin-left: 13px;
+    float: left;
+  }
+
+  .outer_1-3{
+    border: 1px solid tomato;
+    width: 32%;
+    height: 100%;
+    margin-left: 13px;
+    float: left;
   }
