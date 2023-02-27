@@ -10,3 +10,18 @@ body {
   height: 100%;
   background: black;
 }
+
+.outer_startLogo {
+    width: 70%;
+    height: 100%;
+    float: left;
+    box-sizing: border-box;
+    background: #8977ad;
+  }
+.outer_start_btn {
+    width: 30%;
+    height: 100%;
+    float: right;
+    box-sizing: border-box;
+    background: #ece6cc;
+  }
