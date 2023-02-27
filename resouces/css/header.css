@@ -61,8 +61,14 @@ header {
   }
 
   .outer_video{
+<<<<<<< HEAD
     /* border: 1px solid red; */
     margin-top: -10px;
+=======
+    border: 1px solid red;
+    margin-top: 47px;
+    height: 600px;
+>>>>>>> 8d80ef79b49b61003ebac101dd8b122424fae917
   }
 
   .outer_1{
