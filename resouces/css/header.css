@@ -59,3 +59,27 @@ header {
     text-decoration: none;
     color: white;
   }
+
+  .outer_video{
+    border: 1px solid red;
+    margin-top: 47px;
+    height: 600px;
+  }
+
+  .outer_1{
+    border: 1px solid blue;
+    margin-top: 47px;
+    height: 600px;
+  }
+
+  .outer_2{
+    border: 1px solid brown;
+    margin-top: 47px;
+    height: 600px;
+  }
+
+  .outer_3{
+    border: 1px solid teal;
+    margin-top: 47px;
+    height: 600px;
+  }
