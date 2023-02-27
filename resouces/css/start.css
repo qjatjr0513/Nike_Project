@@ -1,14 +1,12 @@
-body{
-    margin: 0;
-    padding: 0;
-} 
-
-.outer{
-    background-color: black;
-<<<<<<< HEAD
-    height: 727rem;
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
 }
-=======
-    height: 57rem;
+.outer {
+  width: 100%;
+  height: 100%;
+  background: black;
 }
->>>>>>> 15e22aaea49594a35d1f74e1f9d4da77d9ad7d11
